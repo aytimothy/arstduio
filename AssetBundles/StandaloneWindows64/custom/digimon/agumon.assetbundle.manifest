@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1703410414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e9df52f9ade014dd760600d5a6afdf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 33a9deae55f1a3c731af6bcd43df495c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4eac4b35ad1329c47b65760de4a39026, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac69f4cdefa29fa40a6832d4f3213c58, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr050a01.png
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr050a01s.png
+- Assets/Content/Veemon/chr114a01.png
+- Assets/Content/Agumon/BlackAgumon.mat
+- Assets/Content/Agumon/chr050 With Animations.fbx
+- Assets/Content/Agumon/Agumon.blend
+- Assets/Content/Veemon/Veemon.blend
+- Assets/Content/Agumon/Agumon.mat
+- Assets/Content/Agumon/AssetBundleDescriptor.prefab
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr050a02s.png
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr143a01s.png
+- Assets/Content/Guilmon/Guilmon.blend
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr143a02s.png
+- Assets/Content/Guilmon/Digimon Linkz Animator.controller
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr143a01.png
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr143b01.png
+- Assets/Content/Agumon/chr050.dae
+- Assets/Content/Veemon/Veemon.mat
+- Assets/Content/Agumon/chr143a01.png
+- Assets/Content/Agumon/Cyber Sleuth Textures/chr050b01.png
+- Assets/Content/Guilmon/chr090a01.png
+- Assets/Content/Agumon/Agumon.overrideController
+- Assets/Content/Agumon/Agumon.prefab
+- Assets/Content/Agumon/chr050.fbx
+- Assets/Content/Agumon/BlackAgumon.prefab
+- Assets/Content/Agumon/chr050a01.png
+Dependencies: []

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3770328437
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: custom/digimon/agumon.assetbundle
+      Dependencies: {}
